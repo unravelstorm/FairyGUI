@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="0b9cdueg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="n90u0" name="Component1.xml" path="/"/>
+    <image id="n90u2" name="ea3.jpg" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

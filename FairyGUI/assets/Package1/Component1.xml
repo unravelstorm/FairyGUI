@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <graph id="n0_n90u" name="n0" xy="95,126" size="115,103" type="rect"/>
+    <image id="n3_n90u" name="n3" src="n90u2" fileName="ea3.jpg" xy="284,145" size="393,328"/>
+  </displayList>
+</component>
